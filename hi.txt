@@ -1,3 +1,4 @@
+#THE BEGIN#
 #Note
 This is my new file "HI" 
 Hello ALll
