@@ -1,3 +1,4 @@
+#Note
 This is my new file "HI" 
 Hello ALll
 Welcome to this new world of git
